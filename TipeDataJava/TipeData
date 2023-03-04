@@ -1,0 +1,19 @@
+data primitif 
+byte
+short
+int
+long
+float
+double
+char
+boolean
+
+tipe data buka primitif default value= null
+Byte
+Short
+Integer
+Long
+Float
+Double
+Character
+Boolean
